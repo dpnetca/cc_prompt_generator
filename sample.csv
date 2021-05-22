@@ -1,0 +1,4 @@
+prompt_name,prompt_text
+welcome,Thank you for calling Acme Corporation
+main menu,"Please select from the following menu options. Press 1 for sales, Press 2 for support"
+sales_busy,"All of our sales representatives are busy serving other customers, please hold on the line and your call will be answered in the order it was received"
